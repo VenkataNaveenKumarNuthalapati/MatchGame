@@ -1,0 +1,14 @@
+.thumbnail {
+  height: 100px;
+  width: 100px;
+}
+.thumb {
+  margin: 10px;
+  background-color: transparent;
+  border-radius: 10px;
+}
+.thumb button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}

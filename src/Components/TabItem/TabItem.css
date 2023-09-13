@@ -1,0 +1,17 @@
+.normal {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  font-size: 25px;
+  margin: 10px;
+  color: white;
+}
+.tab-button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  color: #fec653;
+  font-size: 25px;
+  border-bottom: 2px solid #fec653;
+  margin: 10px;
+}

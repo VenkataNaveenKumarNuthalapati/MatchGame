@@ -1,0 +1,29 @@
+.game-result {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-lg-bg.png');
+  background-size: cover;
+  height: 600px;
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+.trophy {
+  height: 200px;
+  width: 200px;
+}
+span {
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+}
+.reset-button {
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  background-color: #cf60c8;
+  border-radius: 8px;
+  outline: none;
+  border: none;
+  padding: 10px;
+}
